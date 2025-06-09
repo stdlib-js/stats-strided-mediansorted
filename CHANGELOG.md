@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`3565318`](https://github.com/stdlib-js/stdlib/commit/3565318e3639b3e44890ed15ccd73560d3cac14c) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`ddad44c`](https://github.com/stdlib-js/stdlib/commit/ddad44c958b2f37b825c2e5a15b6a1d8c09bc798) - **feat:** add `stats/strided/mediansorted` _(by Gururaj Gurram)_
 
 </details>
