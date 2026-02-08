@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import mediansorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-mediansorted@deno/mod.js';
+import mediansorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-mediansorted@v0.1.1-deno/mod.js';
 ```
 
 #### mediansorted( N, x, strideX )
@@ -142,7 +142,7 @@ var v = mediansorted.ndarray( 4, x, 2, 1 );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import mediansorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-mediansorted@deno/mod.js';
+import mediansorted from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-mediansorted@v0.1.1-deno/mod.js';
 
 var x = linspace( -5.0, 5.0, 10 );
 console.log( x );
